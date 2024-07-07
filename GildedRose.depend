@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1720324524 source:/home/giselle/Documentos/estrutura de dados_oficial/GildedRose/GR.c
+	<string.h>
+	"GR.h"
+	<stdio.h>
+
+1720319423 /home/giselle/Documentos/estrutura de dados_oficial/GildedRose/GR.h
+
+1720320262 source:/home/giselle/Documentos/estrutura de dados_oficial/GildedRose/main.c
+	<stdio.h>
+	"GR.h"
+
